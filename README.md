@@ -3,7 +3,7 @@
 An implementation of the  classic "Hello World" program written in python.
 Written as part of a simple demonstration of VS Code, and Git integration
 
-[Software Demo Video](http://youtube.link.goes.here)
+Demo Video: https://www.youtube.com/watch?v=aryxt1lHetw
 
 # Development Environment
 
